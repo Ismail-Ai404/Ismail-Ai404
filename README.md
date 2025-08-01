@@ -22,10 +22,10 @@
  
 <div align="center"> 
   <a href="mailto:ayon000@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red](https://www.google.com/imgres?q=google%20email%20image&imgurl=https%3A%2F%2Fcdn.vectorstock.com%2Fi%2F1000v%2F05%2F58%2Fgmail-logo-icon-google-email-vector-50150558.jpg&imgrefurl=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fgmail-logo-icon-google-email-vector-50150558&docid=izo1W9MmLPNAtM&tbnid=8hp-wguZvz05fM&vet=12ahUKEwiFiPDz1-qOAxXyUGcHHfRgAPoQM3oECCIQAA..i&w=1000&h=830&hcb=2&ved=2ahUKEwiFiPDz1-qOAxXyUGcHHfRgAPoQM3oECCIQAA)" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/ismailgetsitdone" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  />
   </a>
   <a href="https://ismails-portfolio-70b11a.webflow.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
