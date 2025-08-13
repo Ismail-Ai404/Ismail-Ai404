@@ -1,22 +1,6 @@
-<!-- Professional Profile Intro Section -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-
-<div style="font-family: 'Poppins', sans-serif; text-align: center; color: #EAEAEA; background-color: #0D1117; padding: 30px; border-radius: 12px; max-width: 700px; margin: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-    
-
-   
-
-  <div style="margin-top: 20px;">
-        <a href="mailto:your-email" style="background:#D14836; color:white; padding:8px 16px; margin: 4px; border-radius:6px; text-decoration:none; font-weight:600;">📧 Gmail</a>
-        <a href="#" style="background:#0077B5; color:white; padding:8px 16px; margin: 4px; border-radius:6px; text-decoration:none; font-weight:600;">💼 LinkedIn</a>
-        <a href="#" style="background:#FF5733; color:white; padding:8px 16px; margin: 4px; border-radius:6px; text-decoration:none; font-weight:600;">🌐 Portfolio</a>
-    </div>
 
 
-
-
-
-
+<body>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-Ai404.Ismail-Ai404" alt="Visitor Count" />
 </p>
@@ -38,7 +22,7 @@
   <p style="margin: 10px 0; font-size: 1.1em;">🌱 Learning <strong style="color:#A8FF60;">React</strong>, <strong style="color:#FF6F91;">Unreal Engine</strong> & <strong style="color:#FFB347;">AWS</strong></p>
   <p style="margin: 10px 0; font-size: 1.1em;">💬 Ask me about <strong style="color:#87CEEB;">Figma</strong>, <strong style="color:#FFDB58;">JavaScript</strong>... or anything <a href="https://github.com/Ismail-Ai404/Ismail-Ai404/issues" style="color:#58A6FF; text-decoration:none;">here</a></p>
   <p style="margin-top: 15px; font-style: italic; color: #C9D1D9;">⚡ Fun fact: <span style="color:#FF7B72;">Game of Thrones</span> Night's Watch cloaks are made from IKEA rugs</p>
-<div/>
+</div>>
 <br/>
 
 <div align="center" style="margin: 20px 0;">
@@ -92,3 +76,4 @@
   <img width="420" height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ismail-Ai404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12" alt="readme stats"/>
   <img width="420" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ismail-Ai404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
+<body/>
