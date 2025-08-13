@@ -1,3 +1,22 @@
+<!-- Professional Profile Intro Section -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Poppins', sans-serif; text-align: center; color: #EAEAEA; background-color: #0D1117; padding: 30px; border-radius: 12px; max-width: 700px; margin: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+    
+
+   
+
+  <div style="margin-top: 20px;">
+        <a href="mailto:your-email" style="background:#D14836; color:white; padding:8px 16px; margin: 4px; border-radius:6px; text-decoration:none; font-weight:600;">📧 Gmail</a>
+        <a href="#" style="background:#0077B5; color:white; padding:8px 16px; margin: 4px; border-radius:6px; text-decoration:none; font-weight:600;">💼 LinkedIn</a>
+        <a href="#" style="background:#FF5733; color:white; padding:8px 16px; margin: 4px; border-radius:6px; text-decoration:none; font-weight:600;">🌐 Portfolio</a>
+    </div>
+
+
+
+
+
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-Ai404.Ismail-Ai404" alt="Visitor Count" />
 </p>
@@ -6,17 +25,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&pause=800&lines=Hi+There!+👋;I'm+Ismail+Hossain!;Designer+•+Educator+•+Web+Developer;Welcome+to+my+GitHub" />
 </h1>
 
-<h3 align="center">A passionate graphics designer, educator and web developer from Bangladesh 🇧🇩</h3>
+<h2 align="center" style="font-size: 1.8em; font-weight: 600; margin-bottom: 20px;">
+        🎨 A Passionate <span style="color:#58A6FF;">Graphics Designer</span>, Educator & Web Developer from 🇧🇩 Bangladesh
+    </h2>
 
 <br/>
 
-<div align="center" style="line-height: 2;">
- 🔭 I’m currently working on <strong>a consultancy website</strong><br/>
- 🌱 I’m currently learning <strong>React, Unreal Engine, AWS</strong><br/>
- 💬 Ask me about <strong>Figma, JavaScript...</strong> or anything <a href="https://github.com/Ismail-Ai404/Ismail-Ai404/issues">here</a><br/>
- ⚡ Fun fact: <em>Game of Thrones Night's Watch cloaks are made from IKEA rugs</em>
-</div>
 
+
+<div align="center" style="line-height: 2;">
+  <p style="margin: 10px 0; font-size: 1.1em;">💼 Currently working on <strong style="color:#FFD700;">a Consultancy Website</strong></p>
+  <p style="margin: 10px 0; font-size: 1.1em;">🌱 Learning <strong style="color:#A8FF60;">React</strong>, <strong style="color:#FF6F91;">Unreal Engine</strong> & <strong style="color:#FFB347;">AWS</strong></p>
+  <p style="margin: 10px 0; font-size: 1.1em;">💬 Ask me about <strong style="color:#87CEEB;">Figma</strong>, <strong style="color:#FFDB58;">JavaScript</strong>... or anything <a href="https://github.com/Ismail-Ai404/Ismail-Ai404/issues" style="color:#58A6FF; text-decoration:none;">here</a></p>
+  <p style="margin-top: 15px; font-style: italic; color: #C9D1D9;">⚡ Fun fact: <span style="color:#FF7B72;">Game of Thrones</span> Night's Watch cloaks are made from IKEA rugs</p>
+<div/>
 <br/>
 
 <div align="center" style="margin: 20px 0;">
@@ -32,6 +54,7 @@
 </div>
 
 <hr/>
+
 
 ## ⚒️ Languages & Frameworks
 <div align="center" style="margin-bottom: 15px;">
