@@ -22,7 +22,7 @@
   <p style="margin: 10px 0; font-size: 1.1em;">🌱 Learning <strong style="color:#A8FF60;">React</strong>, <strong style="color:#FF6F91;">Unreal Engine</strong> & <strong style="color:#FFB347;">AWS</strong></p>
   <p style="margin: 10px 0; font-size: 1.1em;">💬 Ask me about <strong style="color:#87CEEB;">Figma</strong>, <strong style="color:#FFDB58;">JavaScript</strong>... or anything <a href="https://github.com/Ismail-Ai404/Ismail-Ai404/issues" style="color:#58A6FF; text-decoration:none;">here</a></p>
   <p style="margin-top: 15px; font-style: italic; color: #C9D1D9;">⚡ Fun fact: <span style="color:#FF7B72;">Game of Thrones</span> Night's Watch cloaks are made from IKEA rugs</p>
-</div>>
+</div>
 <br/>
 
 <div align="center" style="margin: 20px 0;">
