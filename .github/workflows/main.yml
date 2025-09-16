@@ -1,4 +1,4 @@
-name: Generate Snake
+# name: Generate Snake (This is the corrected workflow file)
 
 on:
   schedule:
@@ -12,6 +12,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # ---- ADD THIS PERMISSIONS BLOCK ----
+    permissions:
+      contents: write
+    # ------------------------------------
 
     steps:
       - name: Checkout
