@@ -1,4 +1,4 @@
-# name: Generate Snake (This is the corrected workflow file)
+name: Generate Snake
 
 on:
   schedule:
@@ -12,11 +12,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    # ---- ADD THIS PERMISSIONS BLOCK ----
     permissions:
       contents: write
-    # ------------------------------------
 
     steps:
       - name: Checkout
@@ -26,6 +23,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Ismail-Ai404
+          include_all_commits: true # <-- THIS LINE MAKES THE SNAKE GROW
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=b3e5fc,4fc3f7,039be5,01579b
             dist/github-contribution-grid-snake-dark.svg?palette=b3e5fc,4fc3f7,039be5,01579b
