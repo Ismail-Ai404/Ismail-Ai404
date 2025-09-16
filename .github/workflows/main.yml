@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: Ismail-Ai404
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=b3e5fc,4fc3f7,039be5,01579b
+            dist/github-contribution-grid-snake-dark.svg?palette=b3e5fc,4fc3f7,039be5,01579b
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
