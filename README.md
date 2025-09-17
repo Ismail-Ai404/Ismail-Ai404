@@ -74,9 +74,9 @@ Currently building a full-stack consultancy website and exploring the creative p
 
    <img width="420" height="240" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ismail-Ai404&count_private=true&theme=react&border_radius=12" alt="streak stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Ai404&theme=react&show_icons=true&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Ai404&theme=react&show_icons=true&hide_border=true&border_radius=12&rank_icon=github&count_private=true" alt="GitHub Stats" width="48%"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Ai404&layout=compact&theme=react&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ismail-Ai404&layout=compact&theme=react&hide_border=true&border_radius=12&langs_count=8&count_private=true&exclude_repo=Ismail-Ai404,github-readme-stats" alt="Top Languages" width="48%"/>
   
   ### 🐍 My Contribution Snake
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ismail-Ai404/Ismail-Ai404/output/github-contribution-grid-snake.svg" />
