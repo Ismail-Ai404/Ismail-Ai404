@@ -1,79 +1,105 @@
-
-
-<body>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ismail-Ai404.Ismail-Ai404" alt="Visitor Count" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&pause=800&lines=Hi+There!+👋;I'm+Ismail+Hossain!;Designer+•+Educator+•+Web+Developer;Welcome+to+my+GitHub" />
-</h1>
-
-<h2 align="center" style="font-size: 1.8em; font-weight: 600; margin-bottom: 20px;">
-        🎨 A Passionate <span style="color:#58A6FF;">Graphics Designer</span>, Educator & Web Developer from 🇧🇩 Bangladesh
-    </h2>
-
-<br/>
-
-
-
-<div align="center" style="line-height: 2;">
-  <p style="margin: 10px 0; font-size: 1.1em;">💼 Currently working on <strong style="color:#FFD700;">a Consultancy Website</strong></p>
-  <p style="margin: 10px 0; font-size: 1.1em;">🌱 Learning <strong style="color:#A8FF60;">React</strong>, <strong style="color:#FF6F91;">Unreal Engine</strong> & <strong style="color:#FFB347;">AWS</strong></p>
-  <p style="margin: 10px 0; font-size: 1.1em;">💬 Ask me about <strong style="color:#87CEEB;">Figma</strong>, <strong style="color:#FFDB58;">JavaScript</strong>... or anything <a href="https://github.com/Ismail-Ai404/Ismail-Ai404/issues" style="color:#58A6FF; text-decoration:none;">here</a></p>
-  <p style="margin-top: 15px; font-style: italic; color: #C9D1D9;">⚡ Fun fact: <span style="color:#FF7B72;">Game of Thrones</span> Night's Watch cloaks are made from IKEA rugs</p>
-</div>
-<br/>
-
-<div align="center" style="margin: 20px 0;">
-  <a href="mailto:ayon000777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ismailgetsitdone" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ismails-portfolio-70b11a.webflow.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-
-## ⚒️ Languages & Frameworks
-<div align="center" style="margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui,js,ts" />
-</div>
-
-## 🖥️ Backend
-<div align="center" style="margin-bottom: 15px;">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,mysql,firebase" />
-</div>
-
-## 🎨 Design & Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ps,blender,autocad" />
+
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:6366F1&height=250&section=header&text=Ismail%20Hossain&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20|%20UI/UX%20Designer%20|%20Educator&descSize=22&descColor=FFFFFF&descAlignY=58&animation=fadeIn" alt="Header" />
+
+  <!-- Typing SVG -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Building+Intuitive+User+Experiences;Engineering+Scalable+Web+Applications;Bridging+Design%2C+Code%2C+and+Education" alt="Expertise" />
+  </p>
+
+  <!-- Social Badges -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailgetsitdone)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=webflow&logoColor=white)](https://ismails-portfolio-70b11a.webflow.io/)
+  [![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayon000777@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismail-Ai404)
+
 </div>
 
-## 🎮 Game Development Tools
+<!-- About Me Section -->
+<img align="right" alt="Developer GIF" width="300" src="https://raw.githubusercontent.com/Sa1f27/Sa1f27/main/ai_animation.gif" />
+
+## 🚀 About Me
+
+I'm a passionate developer and designer who thrives on creating seamless digital experiences, from concept to deployment. My expertise lies at the intersection of:
+
+- 💻 **Full-Stack Development** - Building robust and scalable web applications with modern frameworks.
+- 🎨 **UI/UX Design** - Crafting intuitive, user-centric interfaces with tools like Figma.
+- 👨‍🏫 **Technical Education** - Empowering others by teaching programming and design principles.
+
+Currently building a full-stack consultancy website and exploring the creative possibilities of game development.
+
+---
+
+## 💡 Core Competencies
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unreal,unity,androidstudio" />
+
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">Frontend & Design</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,mui" alt="Frontend Skills" />
+          <br>
+          <img src="https://skillicons.dev/icons?i=figma,ps,blender,autocad" alt="Design Skills" />
+        </p>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">Backend & Databases</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase" alt="Backend Skills" />
+          <br>
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Skills" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top">
+        <h3 align="center">Game Development & Tools</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=unreal,unity,androidstudio" alt="Game Dev Skills" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-<hr/>
+---
 
-## 🐍 My Contributions
-<p align="center">
+## 📊 GitHub Stats
+
+<div align="center">
+
+   <img width="420" height="240" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ismail-Ai404&count_private=true&theme=react&border_radius=12" alt="streak stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Ai404&theme=react&show_icons=true&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub Stats" width="48%"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Ai404&layout=compact&theme=react&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="48%"/>
+  
+  ### 🐍 My Contribution Snake
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ismail-Ai404/Ismail-Ai404/output/github-contribution-grid-snake.svg" />
-</p>
 
-<hr/>
-
-
-## ⚡ Stats
-<div align="center" style="margin: 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img width="420" height="240" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ismail-Ai404&count_private=true&theme=react&border_radius=12" alt="streak stats"/>
-  <img width="420" height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Ismail-Ai404&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12" alt="readme stats"/>
-  <img width="420" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ismail-Ai404&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
-<body/>
+
+---
+
+## 🌱 Current Focus
+
+- ⚛️ **Mastering Advanced React** – Deepening my knowledge of state management, hooks, and performance optimization in Next.js.
+- 🎮 **Exploring Game Development** – Learning the fundamentals of game design and logic with Unreal Engine.
+- ☁️ **Cloud Technologies** – Gaining hands-on experience with core AWS services for scalable application deployment.
+
+---
+
+<div align="center">
+
+  ## 🤝 Let's Connect
+
+  <p>I'm always open to discussing new projects, design challenges, or opportunities in tech education. Feel free to reach out!</p>
+  
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:06B6D4&height=150&section=footer" />
+
+</div>
