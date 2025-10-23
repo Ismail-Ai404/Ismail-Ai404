@@ -16,10 +16,10 @@
   [![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayon000777@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ismail-Ai404)
 
-
+  <!-- Mario gif -->
   <div >
-  <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="45%" />
-</div>
+    <img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="45%" />
+  </div>
 
 
 </div>
